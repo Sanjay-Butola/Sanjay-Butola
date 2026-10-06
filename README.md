@@ -4,14 +4,14 @@
 
 MBA Finance graduate with a Mechanical Engineering background, interested in using data and business insights to support better decision-making.
 
-## 🛠️ Skills
+## Skills
 
 - **Data & Analytics:** Excel, SQL, Power BI, Python
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn
 - **Power BI:** Power Query, DAX, Data Modeling, Dashboards
 - **Business & Finance:** Financial Analysis, Business Analysis, Reporting, Trend Analysis, Ratio Analysis
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 🔹 THDC Financial Analysis
 Financial performance analysis and business insights of THDC India Limited using Power BI.
@@ -23,15 +23,15 @@ Interactive Power BI dashboard for analyzing sample Apple sales data using KPIs,
 
 **Tools:** Power BI
 
-## 🎓 Education
+## Education
 
 - **MBA – Finance Major, Marketing Minor** | HNBGU | 2024–2026
 - **B.Tech – Mechanical Engineering** | HNBGU | 2019–2023
 
-## 📈 Currently Learning
+## Currently Learning
 
 SQL • Python for Data Analytics • Power BI • Data Analysis • Business Analytics
 
-## 📫 Connect With Me
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/sanjay-butola-b82792237?)
